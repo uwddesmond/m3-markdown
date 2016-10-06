@@ -10,8 +10,10 @@ The `cd` command allows you to change your directory. For example:
 cd Documents/
 ```
 Here's some information about the `cd` command:
--You can use the `~` to go back to the user and then change directory. Option: `cd ~/Documents/`
--You can use `..` to move back up the directory tree
+
+- You can use the `~` to go back to the user and then change directory. Option: `cd ~/Documents/`
+
+- You can use `..` to move back up the directory tree
 
 
 A `heading` with the name of the command
